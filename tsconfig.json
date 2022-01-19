@@ -1,0 +1,7 @@
+{
+  "extends": "@storis/tsconfig/node16",
+  "compilerOptions": {
+    "allowJs": true
+  },
+  "include": ["./.*.cjs", "./*.js", "./.*.js"]
+}
