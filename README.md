@@ -1,4 +1,4 @@
-# @storis/eslint-config
+# @storis/prettier-config
 
 This package contains the standard prettier configurations for JavaScript and TypeScript packages used by [STORIS](https://www.storis.com).
 
