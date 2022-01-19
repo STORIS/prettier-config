@@ -10,7 +10,7 @@ module.exports = {
 	arrowParens: 'always',
 	overrides: [
 		{
-			files: ['*.{js,jsx,ts,tsx,d.ts,css,html,graphql}'],
+			files: ['*.{cjs,mjs,js,jsx,ts,tsx,d.ts,css,html,graphql}'],
 			options: {
 				useTabs: true,
 			},
