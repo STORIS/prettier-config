@@ -17,6 +17,6 @@ No changes; only a version bump
 
 - Initial release
 
-[unreleased]: https://github.com/storis/prettier-config/compare/0.0.1...HEAD
+[unreleased]: https://github.com/storis/prettier-config/compare/0.0.2...HEAD
 [0.0.2]: https://github.com/storis/prettier-config/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/storis/prettier-config/releases/tag/0.0.1
