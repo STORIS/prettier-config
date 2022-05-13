@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@storis/eslint-config": "3.2.0",
-    "@storis/tsconfig": "0.0.2",
+    "@storis/tsconfig": "1.0.0",
     "@typescript-eslint/eslint-plugin": "5.23.0",
     "@typescript-eslint/parser": "5.23.0",
     "eslint": "8.15.0",
