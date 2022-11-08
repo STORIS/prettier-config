@@ -35,7 +35,7 @@
     "prettier": ">=2.5.0"
   },
   "devDependencies": {
-    "@storis/eslint-config": "3.2.0",
+    "@storis/eslint-config": "4.0.0",
     "@storis/tsconfig": "1.0.0",
     "@typescript-eslint/eslint-plugin": "5.42.1",
     "@typescript-eslint/parser": "5.42.1",
